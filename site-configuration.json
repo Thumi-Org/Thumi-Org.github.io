@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "துமி அமையம்",
+    "subTitle": "இனத்தின் இருப்புக்களை அடுத்த தலைமுறைக்கு எடுத்துச் சொல்லும் பொறுப்பான பணி.",
+    "recentRelease": "அண்மைய வெளியீடு",
+    "publicationTitle": "துமியின் ஏனைய வெளியீடுகள்"
+  },
+  "socialMediaLinks": {
+    "twitter": "#",
+    "facebook": "https://www.facebook.com/Thumi06",
+    "instagram": "#",
+    "mobile": "#",
+    "email": "thumi2016@gmail.com"
+  },
+  "recentRelease": {
+    "publicationName":"துமி இதழ் - 07",
+    "releaseDate":"வெளியீடு : 16.08.2020",
+    "coverImageName":"thumi-07.png",
+    "pdfLink":"https://bit.ly/31YwbWr",
+    "ePaperLink": "",
+    "contentTitles": ["வழுக்கியாறு - ஆய்வுத்தொடர்",
+      "நான் காணும் உலகங்கள் யார் காணக்கூடும்",
+      "வைத்தியன் உறுப்புக்கள்",
+      "குடாநாட்டின் சுற்றுலா - ஆய்வுத்தொடர்",
+      "துர்முனிகள்",
+      "இந்திய சுதந்திரத்தில் தமிழர்கள்",
+      "யுவராஜ் எனும் யுகவீரன்"]
+  },
+  "publications":{
+    "1":{
+      "publicationName":"துமி இதழ் - 01",
+      "releaseDate":"வெளியீடு : 15.05.2020",
+      "coverImageName":"thumi-01.png",
+      "pdfLink":"https://drive.google.com/open?id=1JuruRba04Aji76uqbbeVAKNPxXvlvhRF",
+      "ePaperLink": ""
+    },
+    "2":{
+      "publicationName":"துமி இதழ் - 02",
+      "releaseDate":"வெளியீடு : 01.06.2020",
+      "coverImageName":"thumi-02.png",
+      "pdfLink":"https://bit.ly/2yVrWAM",
+      "ePaperLink": ""
+    },
+    "3":{
+      "publicationName":"துமி இதழ் - 03",
+      "releaseDate":"வெளியீடு : 16.06.2020",
+      "coverImageName":"thumi-03.png",
+      "pdfLink":"https://bit.ly/3daBKoq",
+      "ePaperLink": ""
+    },
+    "4":{
+      "publicationName":"துமி இதழ் - 04",
+      "releaseDate":"வெளியீடு : 01.07.2020",
+      "coverImageName":"thumi-04.png",
+      "pdfLink":"https://bit.ly/2D0iVbn",
+      "ePaperLink": ""
+    },
+    "5":{
+      "publicationName":"துமி இதழ் - 05",
+      "releaseDate":"வெளியீடு : 16.07.2020",
+      "coverImageName":"thumi-05.png",
+      "pdfLink":"https://bit.ly/2WpHoh0",
+      "ePaperLink": ""
+    },
+    "6":{
+      "publicationName":"துமி இதழ் - 06",
+      "releaseDate":"வெளியீடு : 01.08.2020",
+      "coverImageName":"thumi-06.png",
+      "pdfLink":"https://bit.ly/2BPI3RO",
+      "ePaperLink": ""
+    },
+    "7":{
+      "publicationName":"துமி இதழ் - 07",
+      "releaseDate":"வெளியீடு : 16.08.2020",
+      "coverImageName":"thumi-07.png",
+      "pdfLink":"https://bit.ly/31YwbWr",
+      "ePaperLink": ""
+    }
+  }
+}
