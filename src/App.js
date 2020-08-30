@@ -5,16 +5,25 @@ import Content from './Components/Content';
 import Footer from './Components/Footer';
 import RightMenu from './Components/RightMenu';
 
-import configuration from './../site-configuration.json';
+import defaultConfiguration from './../default-config.json';
 
 class App extends React.Component {
   constructor(props) {
     super(props);
 
-    this.state = {};
+    this.state = {
+      configuration: defaultConfiguration
+    };
+  }
+
+  componentDidMount() {
+    fetch('/site-configuration.json')
+      .then(response => response.json())
+      .then(data => this.setState({ configuration: data }));
   }
 
   render() {
+    const { configuration } = this.state;
     const { publications, meta, socialMediaLinks, recentRelease } = configuration || {};
     return (
       <div>

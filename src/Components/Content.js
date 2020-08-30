@@ -46,7 +46,7 @@ class Content extends React.PureComponent {
           <header>
             <div className="sub-title">{subTitle}</div>
           </header>
-          <RecentRelease title={recentRelease} recentPublication={recentPublication} />
+          {recentPublication && <RecentRelease title={recentRelease} recentPublication={recentPublication} />}
           <header>
             <h2>{publicationTitle}</h2>
           </header>
