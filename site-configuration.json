@@ -13,18 +13,18 @@
     "email": "thumi2016@gmail.com"
   },
   "recentRelease": {
-    "publicationName":"துமி இதழ் - 08",
-    "releaseDate":"வெளியீடு : 01.09.2020",
-    "coverImageName":"Thumi-8.png",
-    "pdfLink":"https://bit.ly/34VgrXH",
-    "ePaperLink": "https://bit.ly/3gH5uLz",
-    "contentTitles": ["நின்னைச் சரணடைந்தேன் கண்ணம்மா",
-      "இன்னொரு ஆண்டாள்",
-      "புற்றுநோய்",
-      "குடாநாட்டின் சுற்றுலா - ஆய்வுத்தொடர்",
-      "சீதனம்",
-      "சித்திராங்கதா",
-      "பாரதி என் காதலன்"]
+    "publicationName":"துமி இதழ் - 09",
+    "releaseDate":"வெளியீடு : 16.09.2020",
+    "coverImageName":"Thumi-9.jpeg",
+    "pdfLink":"https://bit.ly/3klhR21",
+    "ePaperLink": "https://bit.ly/33vlZWl",
+    "contentTitles": ["புலம்பெயர்ந்தவர்களும் வாக்காளர் இடாப்பில் பதியலாம்",
+      "நல்லவேளை செத்துப்போனேன்",
+      "தேவன் கோயில் மணியோசை",
+      "கியூபாவின் கதை",
+      "கழிவுகளுக்கு ஒரு வங்கி",
+      "தற்கொலை எனும் பேரழிவு",
+      "திரைத்தமிழ் - அருவி"]
   },
   "publications":{
     "1":{
@@ -75,13 +75,20 @@
       "coverImageName":"thumi-07.png",
       "pdfLink":"https://bit.ly/31YwbWr",
       "ePaperLink": "https://bit.ly/30WKSdw"
-       },
+    },
     "8":{
       "publicationName":"துமி இதழ் - 08",
       "releaseDate":"வெளியீடு : 01.09.2020",
       "coverImageName":"Thumi-8.png",
       "pdfLink":"https://bit.ly/34VgrXH",
       "ePaperLink": "https://bit.ly/3gH5uLz"
+    },
+    "9":{
+      "publicationName":"துமி இதழ் - 09",
+      "releaseDate":"வெளியீடு : 16.09.2020",
+      "coverImageName":"Thumi-9.jpeg",
+      "pdfLink":"https://bit.ly/3klhR21",
+      "ePaperLink": "https://bit.ly/33vlZWl"
     }
   }
 }
