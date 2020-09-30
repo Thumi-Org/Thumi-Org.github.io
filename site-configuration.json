@@ -13,18 +13,18 @@
     "email": "thumi2016@gmail.com"
   },
   "recentRelease": {
-    "publicationName":"துமி இதழ் - 09",
-    "releaseDate":"வெளியீடு : 16.09.2020",
-    "coverImageName":"Thumi-9.jpeg",
-    "pdfLink":"https://bit.ly/3klhR21",
-    "ePaperLink": "https://bit.ly/33vlZWl",
-    "contentTitles": ["புலம்பெயர்ந்தவர்களும் வாக்காளர் இடாப்பில் பதியலாம்",
-      "நல்லவேளை செத்துப்போனேன்",
-      "தேவன் கோயில் மணியோசை",
-      "கியூபாவின் கதை",
-      "கழிவுகளுக்கு ஒரு வங்கி",
-      "தற்கொலை எனும் பேரழிவு",
-      "திரைத்தமிழ் - அருவி"]
+    "publicationName":"துமி இதழ் - 10",
+    "releaseDate":"வெளியீடு : 01.10.2020",
+    "coverImageName":"Thumi-10.jpeg",
+    "pdfLink":"https://bit.ly/3cKD2Yz",
+    "ePaperLink": "https://bit.ly/34eTRHk",
+    "contentTitles": ["பாடும் நிலா",
+      "நான் கற்பிணியா?",
+      "பெண்களே நூலகம் கண்களே புத்தகம்",
+      "காக்காய் வலிப்பு",
+      "விதி முடிக்கும் வீதி விபத்துக்கள்",
+      "ஆங்கிலம் அவசியம்",
+      "திரைத்தமிழ்-சீறு"]
   },
   "publications":{
     "1":{
@@ -89,6 +89,13 @@
       "coverImageName":"Thumi-9.jpeg",
       "pdfLink":"https://bit.ly/3klhR21",
       "ePaperLink": "https://bit.ly/33vlZWl"
+     },
+    "10":{
+      "publicationName":"துமி இதழ் - 10",
+      "releaseDate":"வெளியீடு : 01.10.2020",
+      "coverImageName":"Thumi-10.jpeg",
+      "pdfLink":"https://bit.ly/3cKD2Yz",
+      "ePaperLink": "https://bit.ly/34eTRHk"
     }
   }
 }
