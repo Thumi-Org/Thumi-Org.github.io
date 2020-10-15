@@ -15,23 +15,23 @@
   "recentRelease": {
     "publicationName":"துமி இதழ் - 11",
     "releaseDate":"வெளியீடு : 16.10.2020",
-    "coverImageName":"Tthumi-10.0.jpg",
-    "pdfLink":"https://bit.ly/3cKD2Yz",
-    "ePaperLink": "https://bit.ly/34eTRHk",
-    "contentTitles": ["பாடும் நிலா",
-      "நான் கற்பிணியா?",
-      "பெண்களே நூலகம் கண்களே புத்தகம்",
+    "coverImageName":"low.jpg",
+    "pdfLink":"https://bit.ly/34X16nI",
+    "ePaperLink": "https://bit.ly/2FxJlCT",
+    "contentTitles": ["மகாபாரதத்தில் நான்",
+      "தமிழர்களின் எதிர்காலம்",
+      "திரைத்தமிழ் - ஹரிச்சந்திரன்",
       "காக்காய் வலிப்பு",
-      "விதி முடிக்கும் வீதி விபத்துக்கள்",
-      "ஆங்கிலம் அவசியம்",
-      "திரைத்தமிழ்-சீறு"]
+      "வேசவழமையின் கீழான முன்வாங்குரிமை",
+      "சிவப்பும் நீலமும்",
+      "இலங்கை உலகக்கிண்ணம் 1996"]
   },
   "publications":{
     "1":{
       "publicationName":"துமி இதழ் - 01",
       "releaseDate":"வெளியீடு : 15.05.2020",
       "coverImageName":"thumi-01.png",
-      "pdfLink":"https://drive.google.com/open?id=1JuruRba04Aji76uqbbeVAKNPxXvlvhRF",
+      "pdfLink":"https://drive.google.com/file/d/1JuruRba04Aji76uqbbeVAKNPxXvlvhRF/view?usp=drive_open",
       "ePaperLink": "https://online.pubhtml5.com/kzls/bugd/"
     },
     "2":{
@@ -96,6 +96,13 @@
       "coverImageName":"Tthumi-10.0.jpg",
       "pdfLink":"https://bit.ly/3cKD2Yz",
       "ePaperLink": "https://bit.ly/34eTRHk"
+      },
+    "11":{
+      "publicationName":"துமி இதழ் - 11",
+      "releaseDate":"வெளியீடு : 16.10.2020",
+      "coverImageName":"low.jpg",
+      "pdfLink":"https://bit.ly/34X16nI",
+      "ePaperLink": "https://bit.ly/2FxJlCT"
     }
   }
 }
