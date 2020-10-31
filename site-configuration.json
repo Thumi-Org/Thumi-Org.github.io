@@ -13,17 +13,17 @@
     "email": "thumi2016@gmail.com"
   },
   "recentRelease": {
-    "publicationName":"துமி இதழ் - 11",
-    "releaseDate":"வெளியீடு : 16.10.2020",
-    "coverImageName":"low.jpg",
-    "pdfLink":"https://bit.ly/34X16nI",
-    "ePaperLink": "https://bit.ly/2FxJlCT",
-    "contentTitles": ["மகாபாரதத்தில் நான்",
-      "தமிழர்களின் எதிர்காலம்",
-      "திரைத்தமிழ் - ஹரிச்சந்திரன்",
-      "காக்காய் வலிப்பு",
-      "வேசவழமையின் கீழான முன்வாங்குரிமை",
-      "சிவப்பும் நீலமும்",
+    "publicationName":"துமி இதழ் - 12",
+    "releaseDate":"வெளியீடு : 01.11.2020",
+    "coverImageName":"thumi12.jpg",
+    "pdfLink":"https://bit.ly/2TEU0ii",
+    "ePaperLink": "https://bit.ly/3oGP76O",
+    "contentTitles": ["எங்கள் பேராசிரியர்",
+      "கீழ் முதுகு வலி",
+      "திரைத்தமிழ் - அன்பேசிவம்",
+      "அரசியலமைப்பு",
+      "உலகின் மிகவும் ஆபத்தானவன்",
+      "காட்டுச்சிறுக்கி இவ",
       "இலங்கை உலகக்கிண்ணம் 1996"]
   },
   "publications":{
@@ -101,8 +101,15 @@
       "publicationName":"துமி இதழ் - 11",
       "releaseDate":"வெளியீடு : 16.10.2020",
       "coverImageName":"low.jpg",
-      "pdfLink":"https://bit.ly/34X16nI",
+      "pdfLink":"https://bit.ly/2TEU0ii",
       "ePaperLink": "https://bit.ly/2FxJlCT"
+        },
+    "12":{
+      "publicationName":"துமி இதழ் - 12",
+      "releaseDate":"வெளியீடு : 01.11.2020",
+      "coverImageName":"thumi12.jpg",
+      "pdfLink":"https://bit.ly/34X16nI",
+      "ePaperLink": "https://bit.ly/3oGP76O"
     }
   }
 }
