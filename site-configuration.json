@@ -13,17 +13,17 @@
     "email": "thumi2016@gmail.com"
   },
   "recentRelease": {
-    "publicationName":"துமி இதழ் - 12",
-    "releaseDate":"வெளியீடு : 01.11.2020",
-    "coverImageName":"thumi12-min.jpg",
-    "pdfLink":"https://bit.ly/2TEU0ii",
-    "ePaperLink": "https://bit.ly/3oGP76O",
+    "publicationName":"துமி இதழ் - 13",
+    "releaseDate":"வெளியீடு : 16.11.2020",
+    "coverImageName":"day 13-m.jpg",
+    "pdfLink":"https://bit.ly/35zlPzi",
+    "ePaperLink": "https://bit.ly/2UvdpCY",
     "contentTitles": ["எங்கள் பேராசிரியர்",
-      "கீழ் முதுகு வலி",
-      "திரைத்தமிழ் - அன்பேசிவம்",
+      "கொடும்பாவி சாகாளோ",
+      "சிவாஜி வாயிலே ஜிலேபி",
       "அரசியலமைப்பு",
-      "உலகின் மிகவும் ஆபத்தானவன்",
-      "காட்டுச்சிறுக்கி இவ",
+      "சிங்ககிரித்தலைவன் ",
+      "சித்திராங்கதா",
       "இலங்கை உலகக்கிண்ணம் 1996"]
   },
   "publications":{
@@ -110,6 +110,13 @@
       "coverImageName":"thumi12-min.jpg",
       "pdfLink":"https://bit.ly/2TEU0ii",
       "ePaperLink": "https://bit.ly/3oGP76O"
+          },
+    "13":{
+      "publicationName":"துமி இதழ் - 13",
+      "releaseDate":"வெளியீடு : 16.11.2020",
+      "coverImageName":"day 13-m.jpg",
+      "pdfLink":"https://bit.ly/35zlPzi",
+      "ePaperLink": "https://bit.ly/2UvdpCY"
     }
   }
 }
