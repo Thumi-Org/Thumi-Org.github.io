@@ -13,18 +13,18 @@
     "email": "thumi2016@gmail.com"
   },
   "recentRelease": {
-    "publicationName":"துமி இதழ் - 13",
-    "releaseDate":"வெளியீடு : 16.11.2020",
-    "coverImageName":"day 13(2).png",
-    "pdfLink":"https://bit.ly/35zlPzi",
-    "ePaperLink": "https://bit.ly/2UvdpCY",
+    "publicationName":"துமி இதழ் - 14",
+    "releaseDate":"வெளியீடு : 01.12.2020",
+    "coverImageName":"14.png",
+    "pdfLink":"https://bit.ly/3mokKAl",
+    "ePaperLink": "https://bit.ly/2Vg5rOu",
     "contentTitles": ["எங்கள் பேராசிரியர்",
-      "கொடும்பாவி சாகாளோ",
-      "சிவாஜி வாயிலே ஜிலேபி",
-      "அரசியலமைப்பு",
+      "இருதயம் செயலிழந்தால்.. ",
+      "மின்னல்த் தாக்கம்",
+      "நான் யார்? ",
       "சிங்ககிரித்தலைவன் ",
       "சித்திராங்கதா",
-      "இலங்கை உலகக்கிண்ணம் 1996"]
+      "புட்டுப்புட்டு வைக்கட்டுமா?"]
   },
   "publications":{
     "1":{
@@ -124,6 +124,13 @@
       "coverImageName":"Capture.PNG",
       "pdfLink":"https://bit.ly/33tQEUN",
       "ePaperLink": "https://bit.ly/37fDgVv"
+        },
+    "15":{
+      "publicationName":"துமி இதழ் - 14",
+      "releaseDate":"வெளியீடு : 01.12.2020",
+      "coverImageName":"14.png",
+      "pdfLink":"https://bit.ly/3mokKAl",
+      "ePaperLink": "https://bit.ly/2Vg5rOu"
     }
   }
 }
