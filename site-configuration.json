@@ -13,18 +13,18 @@
     "email": "thumi2016@gmail.com"
   },
   "recentRelease": {
-    "publicationName":"துமி இதழ் - 14",
-    "releaseDate":"வெளியீடு : 01.12.2020",
-    "coverImageName":"14.png",
-    "pdfLink":"https://bit.ly/3mokKAl",
-    "ePaperLink": "https://bit.ly/2Vg5rOu",
-    "contentTitles": ["எங்கள் பேராசிரியர்",
-      "இருதயம் செயலிழந்தால்.. ",
+    "publicationName":"துமி இதழ் - 15",
+    "releaseDate":"வெளியீடு : 16.12.2020",
+    "coverImageName":"day 15 G c-min.jpg",
+    "pdfLink":"http://bit.ly/3mjCxb7",
+    "ePaperLink": "http://bit.ly/37pqncO",
+    "contentTitles": ["செல்லம்மாவின் பாரதி",
+      "மந்திர மெஸ்ஸி ",
       "மின்னல்த் தாக்கம்",
-      "நான் யார்? ",
+      "திமிருக்கு அவன் அழகு ",
       "சிங்ககிரித்தலைவன் ",
       "சித்திராங்கதா",
-      "புட்டுப்புட்டு வைக்கட்டுமா?"]
+      "மழை வருது மழை வருது"]
   },
   "publications":{
     "1":{
@@ -131,6 +131,13 @@
       "coverImageName":"14.png",
       "pdfLink":"https://bit.ly/3mokKAl",
       "ePaperLink": "https://bit.ly/2Vg5rOu"
+         },
+    "16":{
+      "publicationName":"துமி இதழ் - 15",
+      "releaseDate":"வெளியீடு : 16.12.2020",
+      "coverImageName":"day 15 G c-min.jpg",
+      "pdfLink":"http://bit.ly/3mjCxb7",
+      "ePaperLink": "http://bit.ly/37pqncO"
     }
   }
 }
