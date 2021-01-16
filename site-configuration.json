@@ -13,18 +13,18 @@
     "email": "thumi2016@gmail.com"
   },
   "recentRelease": {
-    "publicationName":"துமி இதழ் - 16",
-    "releaseDate":"வெளியீடு : 01.01.2021",
-    "coverImageName":"day 16-min.jpg",
-    "pdfLink":"http://bit.ly/2LbuLU4",
-    "ePaperLink": "http://bit.ly/383OzSn",
-    "contentTitles": ["ஆய்வுகளில் நாவலர்",
+    "publicationName":"துமி இதழ் - 17",
+    "releaseDate":"வெளியீடு : 16.01.2021",
+    "coverImageName":"qqqq-min.jpeg",
+    "pdfLink":"http://bit.ly/3bLCO5g",
+    "ePaperLink": "http://bit.ly/3nPYpMe",
+    "contentTitles": ["வானம் அழுதா தான்",
       "மந்திர மெஸ்ஸி ",
-      "மேரியின் பூமடி மேவிய தேவன்",
+      "யாழ் வெள்ளம்",
       "வெப்பமடைகிறது பூமி ",
-      "குண்டாகிப்போனேனா",
-      "நானா குற்றவாளி?",
-      "பேரர்கள் முரண்பட்டு நூற்றாண்டு"]
+      "பிறந்தநாள் வாழ்த்து",
+      "ஈழச்சூழலியல்",
+      "மூன்றாம் கண்"]
   },
   "publications":{
     "1":{
@@ -145,6 +145,13 @@
       "coverImageName":"day 16-min.jpg",
       "pdfLink":"http://bit.ly/2LbuLU4",
       "ePaperLink": "http://bit.ly/383OzSn"
+          },
+    "18":{
+      "publicationName":"துமி இதழ் - 17",
+      "releaseDate":"வெளியீடு : 16.01.2021",
+      "coverImageName":"qqqq-min.jpeg",
+      "pdfLink":"http://bit.ly/3bLCO5g",
+      "ePaperLink": "http://bit.ly/3nPYpMe"
     }
   }
 }
